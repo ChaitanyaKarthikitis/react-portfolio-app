@@ -34,7 +34,7 @@ const Navbar = () => {
   return (
     <div className='flex bg-black text-white justify-between items-center h-20 fixed w-full px-5'>
         <div>
-            <h1 className='font-signature text-5xl hover:scale-105'>Chaitanya Karthik</h1>
+            <h1 className='font-signature text-3xl md:text-5xl hover:scale-105'>Chaitanya Karthik</h1>
         </div>
 
         

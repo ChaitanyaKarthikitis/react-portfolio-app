@@ -35,7 +35,7 @@ const Home=()=>{
     <div name="Home" className='h-screen w-full bg-gradient-to-b from-black to-gray-800 '>
         <div className="text-white max-w-screen-lg mx-auto flex flex-col items-center justify-center md:flex-row h-full px-4 adjust">
             <div className='flex flex-col '>
-            <div className='flex flex-col increase-width justify-center min-w-fit h-full'>
+            <div className='flex flex-col increase-width justify-center min-w-fit mt-20 md:mt-0'>
                 <h2 className='text-5xl  letter-spacing font-bold inline '>Hii,My name is Chaitanya Karthik!</h2>
                 <p className='text-gray-400 py-4 text-xl max-w-md'>I am an aspiring software developer with a passion for problem-solving and a drive to create innovative solutions. From a young age, I have been interested in computers and technology, and as I grew older, I became fascinated with the process of programming and software development.</p>
             </div>
