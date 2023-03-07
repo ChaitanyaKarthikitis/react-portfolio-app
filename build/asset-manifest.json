@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3ba39a23.css",
+    "main.js": "/static/js/main.92b602b2.js",
+    "static/media/teaching.png": "/static/media/teaching.acdbc95372cc2a05c84a.png",
+    "static/media/todo.png": "/static/media/todo.24f0f22b942afd70dde8.png",
+    "static/media/password.png": "/static/media/password.11e8ce75e9d2df5fcc1d.png",
+    "static/media/notes.jpg": "/static/media/notes.365ca7bb4eb921f4abe1.jpg",
+    "static/media/hero.jpg": "/static/media/hero.0b45dfa412cb22fa9659.jpg",
+    "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/quiz.png": "/static/media/quiz.9ba7d134b3cd3056b44c.png",
+    "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/index.html",
+    "main.3ba39a23.css.map": "/static/css/main.3ba39a23.css.map",
+    "main.92b602b2.js.map": "/static/js/main.92b602b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ba39a23.css",
+    "static/js/main.92b602b2.js"
+  ]
+}

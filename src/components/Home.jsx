@@ -49,7 +49,7 @@ const Home=()=>{
             </div>
             </div>
             <div>
-                <img src={myImg} alt="" className='rounded-2xl sm:w-2/3 md:mr-4  mx-auto md:w-2/3 '/>
+                <img src={myImg} alt="nice image" className='rounded-2xl sm:w-2/3 md:mr-4  mx-auto md:w-2/3 '/>
             </div>
         </div>
         
