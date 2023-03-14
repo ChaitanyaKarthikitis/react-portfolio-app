@@ -14,7 +14,7 @@ const About = () => {
             </p>
             <br />
             <p className='text-xl text-gray-400'>
-                Please go through this website to know everything about my professional skill-sets, projects and many more.You could also get in touch with me int the contact form below.Happy Browsing😊  
+                Please go through this website to know everything about my professional skill-sets, projects and many more.You could also get in touch with me in the contact form below.Happy Browsing😊  
             </p>
         </div>
     </div>
