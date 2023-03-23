@@ -4,7 +4,7 @@ import teaching from'../assets/teaching.png'
 import password from '../assets/password.png'
 import todo from '../assets/todo.png'
 import quiz from '../assets/quiz.png'
-import calculator from '../assets/calculator.png'
+import calculator from '../assets/calci_pic.png'
 import '../assets/css/styles.css'
 
 const Portfolio = () => {
