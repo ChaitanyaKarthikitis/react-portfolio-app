@@ -4,6 +4,7 @@ import teaching from'../assets/teaching.png'
 import password from '../assets/password.png'
 import todo from '../assets/todo.png'
 import quiz from '../assets/quiz.png'
+import calculator from '../assets/calculator.png'
 import '../assets/css/styles.css'
 
 const Portfolio = () => {
@@ -42,6 +43,11 @@ const Portfolio = () => {
              img:teaching,
             href:"https://ckwebtutorials.netlify.app/"
             
+        },
+        {
+            id:6,
+            img:calculator,
+            href:"https://calculator-project-mocha.vercel.app/"
         }
     ]
   return (
