@@ -48,7 +48,7 @@ const SocialIcons = ()=>{
                 </>
 
             ),
-            href:"./chaitanyakarthik's-resume.pdf",
+            href:"./CK-Resume.pdf",
             style:'rounded-br-md',
             download:true,
             target:'_blank'
