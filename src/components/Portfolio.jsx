@@ -5,7 +5,8 @@ import password from '../assets/password.png'
 import todo from '../assets/todo.png'
 import quiz from '../assets/quiz.png'
 import calculator from '../assets/calci_pic.png'
-import ExpenseTracker from '../assets/budget_app.png'
+// import ExpenseTracker from '../assets/budget_app.png'
+import organizify from '../assets/organizify.png'
 import '../assets/css/styles.css'
 
 const Portfolio = () => {
@@ -52,8 +53,8 @@ const Portfolio = () => {
         },
         {
             id:7,
-            img:ExpenseTracker,
-            href:"https://budget-app-weld.vercel.app/"
+            img:organizify,
+            href:"https://organizify.netlify.app/"
         }
 
     ]
