@@ -21,15 +21,8 @@ const Portfolio = () => {
         },
         {
             id:2,
-             img:todo,
-            href:"https://todolistbyck.netlify.app/"
-          
-
-        },
-        {
-            id:3,
-            img:password,
-            href:"https://passwordgeneratorbyck.netlify.app/"
+             img:organizify,
+            href:"https://organizify.netlify.app/"
 
         },
         {
@@ -41,21 +34,11 @@ const Portfolio = () => {
 
         },
         {
-            id:5,
-             img:teaching,
-            href:"https://ckwebtutorials.netlify.app/"
-            
-        },
-        {
             id:6,
             img:calculator,
             href:"https://calculator-project-mocha.vercel.app/"
-        },
-        {
-            id:7,
-            img:organizify,
-            href:"https://organizify.netlify.app/"
         }
+       
 
     ]
   return (
