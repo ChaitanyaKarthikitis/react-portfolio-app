@@ -8,39 +8,36 @@ import calculator from '../assets/calci_pic.png'
 // import ExpenseTracker from '../assets/budget_app.png'
 import organizify from '../assets/organizify.png'
 import '../assets/css/styles.css'
+import weather from '../assets/weather-app.png'
 
 const Portfolio = () => {
-    const projects =[
-        {
-            id:1,
-            img:notes,
-            href:"https://notesappbyck.netlify.app/"
-
-
-
-        },
-        {
-            id:2,
-             img:organizify,
-            href:"https://organizify.netlify.app/"
-
-        },
-        {
-            id:4,
-            img:quiz,
-            href:"https://ckquiz.netlify.app/index.html"
-             
-           
-
-        },
-        {
-            id:6,
-            img:calculator,
-            href:"https://calculator-project-mocha.vercel.app/"
-        }
-       
-
-    ]
+    const projects = [
+      {
+        id: 1,
+        img: notes,
+        href: "https://notesappbyck.netlify.app/",
+      },
+      {
+        id: 2,
+        img: weather,
+        href: "https://weather-app-react-lime-ten.vercel.app/",
+      },
+      {
+        id: 3,
+        img: organizify,
+        href: "https://organizify.netlify.app/",
+      },
+      {
+        id: 4,
+        img: quiz,
+        href: "https://ckquiz.netlify.app/index.html",
+      },
+      {
+        id: 5,
+        img: calculator,
+        href: "https://calculator-project-mocha.vercel.app/",
+      },
+    ];
   return (
     <div name='Portfolio' className='bg-gradient-to-b from-black to-gray-800 md:h-screen w-full add-padding-to-bottom pt-10'>
         <div className='max-w-screen-lg text-white mx-auto p-4 flex flex-col justify-center w-full h-full'>
