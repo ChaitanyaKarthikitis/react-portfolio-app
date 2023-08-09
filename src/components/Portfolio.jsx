@@ -7,6 +7,7 @@ import quiz from '../assets/quiz.png'
 import calculator from '../assets/calci_pic.png'
 // import ExpenseTracker from '../assets/budget_app.png'
 import organizify from '../assets/organizify.png'
+import ecommerce from '../assets/ecommerce.png'
 import '../assets/css/styles.css'
 import weather from '../assets/weather-app.png'
 
@@ -34,7 +35,7 @@ const Portfolio = () => {
       },
       {
         id: 5,
-        img: calculator,
+        img: ecommerce,
         href: "https://calculator-project-mocha.vercel.app/",
       },
     ];

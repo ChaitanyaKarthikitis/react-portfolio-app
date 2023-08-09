@@ -10,84 +10,90 @@ import dsa from '../assets/dsa.png'
 import sql from '../assets/sql.png'
 import mmtc from '../assets/mmtc.png'
 import bootstrap from '../assets/bootstrap.png'
+import node from '../assets/node.png'
 import '../assets/css/styles.css'
 const Experience = () => {
     const experiences = [
-        {
-            id:1,
-            imgSrc:java,
-            text:"JAVA",
-            style:"border-white border-l  shadow-white border-r border-t rounded-lg"
-            
-        },
-        {
-            id:2,
-            imgSrc:dsa,
-            text:"DSA",
-            style:"border-white border-l  shadow-white border-r border-t rounded-lg"
-            
-        },
-        {
-            id:3,
-            imgSrc:html,
-            text:"HTML",
-            style:"border-orange-600 border-l shadow-orange-600 border-r border-t rounded-lg"
-            
-        },
-        {
-            id:4,
-            imgSrc:css,
-            text:"CSS",
-            style:'border-blue-600 border-l shadow-blue-600  border-r border-t rounded-lg'
-            
-        },
-        {
-            id:5,
-            imgSrc:tailwind,
-            text:"TAILWIND",
-            style:'border-cyan-600 border-l shadow-cyan-600  border-r border-t rounded-lg'
-             
-            
-        },
-        {
-            id:6,
-            imgSrc:bootstrap,
-            text:"Bootstrap",
-            style:'border-violet-600 border-l shadow-violet-600  border-r border-t rounded-lg'
-            
-            
-            
-        },
-        {
-            id:7,
-            imgSrc:javascript,
-            text:"JAVASCRIPT",
-            style:'border-yellow-600 border-l shadow-yellow-600  border-r border-t rounded-lg' 
-            
-        },
-        {
-            id:8,
-            imgSrc:React,
-            text:"REACT",
-             style:'border-blue-600 border-l shadow-blue-600  border-r border-t rounded-lg'
-            
-        },
-        {
-            id:9,
-            imgSrc:sql,
-            text:"SQL",
-            style:'border-white border-l shadow-white  border-r border-t rounded-lg'
-            
-           
-            
-        },
-        {
-            id:10,
-            imgSrc:mmtc,
-            text:"Many More coming soon!",
-            style:'border-brown-600 shadow-white  border-l  border-r border-t rounded-lg'
-        }
-    ]
+      {
+        id: 1,
+        imgSrc: java,
+        text: "Java",
+        style:
+          "border-white border-l  shadow-white border-r border-t rounded-lg",
+      },
+      {
+        id: 2,
+        imgSrc: dsa,
+        text: "DSA",
+        style:
+          "border-white border-l  shadow-white border-r border-t rounded-lg",
+      },
+      {
+        id: 3,
+        imgSrc: html,
+        text: "HTML",
+        style:
+          "border-orange-600 border-l shadow-orange-600 border-r border-t rounded-lg",
+      },
+      {
+        id: 4,
+        imgSrc: css,
+        text: "CSS",
+        style:
+          "border-blue-600 border-l shadow-blue-600  border-r border-t rounded-lg",
+      },
+      {
+        id: 5,
+        imgSrc: tailwind,
+        text: "Tailwind.CSS",
+        style:
+          "border-cyan-600 border-l shadow-cyan-600  border-r border-t rounded-lg",
+      },
+      {
+        id: 6,
+        imgSrc: bootstrap,
+        text: "Bootstrap",
+        style:
+          "border-violet-600 border-l shadow-violet-600  border-r border-t rounded-lg",
+      },
+      {
+        id: 7,
+        imgSrc: javascript,
+        text: "Javascript",
+        style:
+          "border-yellow-600 border-l shadow-yellow-600  border-r border-t rounded-lg",
+      },
+      {
+        id: 8,
+        imgSrc: React,
+        text: "React.JS",
+        style:
+          "border-blue-600 border-l shadow-blue-600  border-r border-t rounded-lg",
+      },
+      {
+        id: 9,
+        imgSrc: node,
+        text: "Node.JS",
+        style:
+          "border-white border-l shadow-white  border-r border-t rounded-lg",
+      },
+
+      {
+        id: 10,
+        imgSrc: sql,
+        text: "SQL",
+        style:
+          "border-white border-l shadow-white  border-r border-t rounded-lg",
+      },
+
+      {
+        id: 11,
+        imgSrc: mmtc,
+        text: "Many More coming soon!",
+        style:
+          "border-brown-600 shadow-white  border-l  border-r border-t rounded-lg",
+      },
+    ];
   return (
     <div name='Experience' className='bg-gradient-to-b from-gray-800 to-black w-full max-h-fit  pt-24 '>
         <div className='max-w-screen-lg mx-auto p-4 flex flex-col justify-center w-full h-full text-white'>
