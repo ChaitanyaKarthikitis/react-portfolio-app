@@ -1,6 +1,8 @@
 // import React from 'react'
 import html from '../assets/html.png'
 import javascript from '../assets/javascript.png'
+import mongodb from '../assets/expressjs.png'
+import express from '../assets/mongodb.png'
 // import react from '../assets/react.png'
 import tailwind from '../assets/tailwind.png'
 import css from '../assets/css.png'
@@ -88,6 +90,22 @@ const Experience = () => {
 
       {
         id: 11,
+        imgSrc: mongodb,
+        text: "MongoDB",
+        style:
+          "border-brown-600 shadow-white  border-l  border-r border-t rounded-lg",
+      },
+
+      {
+        id: 12,
+        imgSrc: express,
+        text: "ExpressJS",
+        style:
+          "border-brown-600 shadow-white  border-l  border-r border-t rounded-lg",
+      },
+
+      {
+        id: 13,
         imgSrc: mmtc,
         text: "Many More coming soon!",
         style:
